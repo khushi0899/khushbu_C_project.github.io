@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623917787 source:c:\users\91877\documents\khushbu\payroll management system_0103ca201064\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<dos.h>
+
